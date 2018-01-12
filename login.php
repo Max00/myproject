@@ -1,7 +1,6 @@
 <?php
 
-	function login()
-	{
-		// Ma fonction
-		echo 'LOGIN !';
-	}
+    function login()
+    {
+        //ici une super fonction
+    }
